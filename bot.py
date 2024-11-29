@@ -8,7 +8,7 @@ import threading
 bot = telebot.TeleBot('7736364510:AAEvNU3pI0N3lAg2EL1-d1coUHlg625lDso')
 
 # URL de la página web que quieres monitorear
-url = 'https://www.wolorent.com/pisos-en-venta'
+url = 'https://www.wolorent.com/pisos-en-venta/madrid'
 
 # Variable para almacenar el contenido anterior
 previous_content = ''
